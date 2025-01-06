@@ -32,7 +32,7 @@ class Solution {
         {
             return false;
         }
-       boolean ls=isSameTree(p.left,q.left);
+        boolean ls=isSameTree(p.left,q.left);
         boolean rs=isSameTree(p.right,q.right);
         
 
