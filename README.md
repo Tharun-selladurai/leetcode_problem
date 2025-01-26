@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Dynamic Programming
 |  |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0835-linked-list-components) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
