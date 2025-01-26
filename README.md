@@ -105,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0328-odd-even-linked-list) |
 | [0835-linked-list-components](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0835-linked-list-components) |
 <!---LeetCode Topics End-->
