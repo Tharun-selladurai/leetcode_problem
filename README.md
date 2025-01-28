@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
