@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [1105-uncrossed-lines](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1105-uncrossed-lines) |
+| [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -206,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0608-tree-node) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
