@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -146,5 +149,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
