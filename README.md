@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0101-symmetric-tree) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0079-word-search) |
 | [0835-linked-list-components](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0835-linked-list-components) |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0079-word-search) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0079-word-search) |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
 ## Bit Manipulation
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0079-word-search) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Database
 |  |
