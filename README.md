@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -229,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
