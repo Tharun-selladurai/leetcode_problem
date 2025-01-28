@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0835-linked-list-components](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0835-linked-list-components) |
+| [0838-design-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0838-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
