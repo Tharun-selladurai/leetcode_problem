@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0226-invert-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1484-linked-list-in-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0226-invert-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -191,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0382-linked-list-random-node) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
