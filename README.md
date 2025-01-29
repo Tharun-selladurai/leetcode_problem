@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0226-invert-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0226-invert-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0173-binary-search-tree-iterator) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2573-remove-nodes-from-linked-list) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0838-design-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -238,4 +242,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
