@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0226-invert-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0226-invert-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0669-trim-a-binary-search-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1484-linked-list-in-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0226-invert-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0173-binary-search-tree-iterator) |
 | [0669-trim-a-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Iterator
 |  |
 | ------- |
