@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0226-invert-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1484-linked-list-in-binary-tree) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0079-word-search) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0838-design-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 ## Heap (Priority Queue)
 |  |
