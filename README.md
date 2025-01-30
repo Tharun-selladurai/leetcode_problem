@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0079-word-search) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0807-custom-sort-string](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0807-custom-sort-string) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1524-string-matching-in-an-array) |
 ## String Matching
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0142-linked-list-cycle-ii) |
+| [0807-custom-sort-string](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0807-custom-sort-string) |
 | [0835-linked-list-components](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0835-linked-list-components) |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0324-wiggle-sort-ii) |
+| [0807-custom-sort-string](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0807-custom-sort-string) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1427-all-elements-in-two-binary-search-trees) |
