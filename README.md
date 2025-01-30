@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0075-sort-colors) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0142-linked-list-cycle-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
