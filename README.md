@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0780-max-chunks-to-make-sorted) |
 | [0835-linked-list-components](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0835-linked-list-components) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0079-word-search) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0807-custom-sort-string](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0807-custom-sort-string) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1524-string-matching-in-an-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2887-sort-vowels-in-a-string) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0324-wiggle-sort-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0780-max-chunks-to-make-sorted) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 ## Merge Sort
 |  |
