@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-sorting-three-groups](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2904-sorting-three-groups) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3583-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3583-sorted-gcd-pair-queries) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Dynamic Programming
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2904-sorting-three-groups](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2904-sorting-three-groups) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Ordered Set
 |  |
 | ------- |
@@ -225,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1761-count-sorted-vowel-strings](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1761-count-sorted-vowel-strings) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3583-sorted-gcd-pair-queries) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Linked List
 |  |
@@ -282,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Geometry
 |  |
 | ------- |
@@ -375,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1488-sort-integers-by-the-power-value) |
+## Prefix Sum
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
