@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-linked-list-components](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0835-linked-list-components) |
+| [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0142-linked-list-cycle-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 <!---LeetCode Topics End-->
