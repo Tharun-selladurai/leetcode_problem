@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0023-merge-k-sorted-lists) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 ## Binary Search Tree
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0148-sort-list) |
 ## Quickselect
 |  |
