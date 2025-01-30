@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0382-linked-list-random-node) |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1761-count-sorted-vowel-strings](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1761-count-sorted-vowel-strings) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
 | [1105-uncrossed-lines](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1105-uncrossed-lines) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1761-count-sorted-vowel-strings](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1761-count-sorted-vowel-strings) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2904-sorting-three-groups](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2904-sorting-three-groups) |
 ## Backtracking
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1761-count-sorted-vowel-strings](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1761-count-sorted-vowel-strings) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Linked List
 |  |
