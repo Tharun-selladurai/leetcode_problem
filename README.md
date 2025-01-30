@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0148-sort-list) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0382-linked-list-random-node) |
@@ -306,9 +309,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
