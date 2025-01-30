@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0324-wiggle-sort-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0780-max-chunks-to-make-sorted) |
 | [0835-linked-list-components](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0835-linked-list-components) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0324-wiggle-sort-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0807-custom-sort-string) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1333-sort-the-jumbled-numbers) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0173-binary-search-tree-iterator) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2573-remove-nodes-from-linked-list) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0324-wiggle-sort-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0780-max-chunks-to-make-sorted) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
 ## Merge Sort
 |  |
