@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [1105-uncrossed-lines](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1105-uncrossed-lines) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0324-wiggle-sort-ii) |
 | [0807-custom-sort-string](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0807-custom-sort-string) |
 | [1009-pancake-sorting](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1009-pancake-sorting) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
