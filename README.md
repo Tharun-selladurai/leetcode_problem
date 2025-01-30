@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2904-sorting-three-groups](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2904-sorting-three-groups) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1105-uncrossed-lines) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2904-sorting-three-groups](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2904-sorting-three-groups) |
 ## Backtracking
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [1397-search-suggestions-system](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1397-search-suggestions-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2904-sorting-three-groups](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2904-sorting-three-groups) |
 ## Ordered Set
 |  |
 | ------- |
