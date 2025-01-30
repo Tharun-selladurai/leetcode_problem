@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2904-sorting-three-groups](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2904-sorting-three-groups) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2887-sort-vowels-in-a-string](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2887-sort-vowels-in-a-string) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/1038-number-of-squareful-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Tharun-selladurai/leetcode_problem/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bitmask
 |  |
 | ------- |
